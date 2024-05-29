@@ -57,7 +57,7 @@ input[type="email"] {
 }
 
 #submit {
-   padding: 10px 20px;
+  padding: 10px 20px;
   background-color: rgb(2, 106, 192);
   color: white;
   border: none;
@@ -69,9 +69,11 @@ input[type="email"] {
   #header {
     flex-direction: column;
   }
+
   #nav-bar {
     margin-top: 20px;
   }
+  
   #video {
     height: 200px;
   }
