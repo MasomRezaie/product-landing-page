@@ -55,7 +55,7 @@
     padding: 10px;
     margin-bottom: 10px;
   }
-  
+
   #submit {
     padding: 10px 20px;
     background-color: rgb(2, 106, 192);
@@ -63,6 +63,7 @@
     border: none;
     cursor: pointer;
   }
+  
 /* Media Query for responsiveness */
   @media only screen and (max-width: 600px) {
     #header {
