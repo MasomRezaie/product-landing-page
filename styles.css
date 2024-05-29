@@ -4,7 +4,7 @@
     font-family: Arial, sans-serif;
     background-color: rgb(255, 255, 255);
   }
-  
+
   #header {
     display: flex;
     justify-content: space-between;
@@ -16,7 +16,7 @@
     top: 0;
     width: 100%;
   }
-
+  
   #features {
     margin-top: 100px;
     margin-left: 200px;
