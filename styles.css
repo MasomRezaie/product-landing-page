@@ -63,7 +63,7 @@
     border: none;
     cursor: pointer;
   }
-  
+
 /* Media Query for responsiveness */
   @media only screen and (max-width: 600px) {
     #header {
@@ -76,3 +76,4 @@
       height: 200px;
     }
   }
+  
