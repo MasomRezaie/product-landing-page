@@ -49,12 +49,13 @@
     flex-direction: column;
     align-items: center;
   }
-  
+
   input[type="email"] {
     width: 300px;
     padding: 10px;
     margin-bottom: 10px;
   }
+  
   #submit {
     padding: 10px 20px;
     background-color: rgb(2, 106, 192);
